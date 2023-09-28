@@ -6,5 +6,4 @@ I currently work as a freelance data scientist, and I'm also an enthusiast in us
 
 My main projects are pinned below and with the main one being my blog showcasing several different cheminformatics, machine learning and data science projects using various software toolkits. While sharing my work, I also hope that these work will help people, who are interested in these areas, to get started in coding and learning about the computational side of pharmaceutical chemistry and drug discovery. I'm currently still working on new projects, always trying to brainstorm for the next idea, and also open to any work opportunaties or project collaborations (contact details as shown on the left). 
 
-Thanks for visiting,
-Jen
+Thanks for visiting.
