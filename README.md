@@ -2,7 +2,7 @@ A brief background introduction can be accessed [here](https://jhylin.github.io/
 
 * [Working with scaffolds in small molecules](https://jhylin.github.io/Data_in_life_blog/posts/14_Scaffolds_in_small_molecules/chembl_anti-inf_data_prep_current.html) - Manipulating SMILES strings
 
-* [Molecular visualisation (Molviz) web application](https://jhylin.github.io/Data_in_life_blog/posts/15_Molviz/Molviz.html) - Using Shiny for Python web application framework (interactive data table part can be accessed [here](https://jhylin.github.io/Data_in_life_blog/posts/15_Molviz/itables.html)
+* [Molecular visualisation (Molviz) web application](https://jhylin.github.io/Data_in_life_blog/posts/15_Molviz/Molviz.html) - Using Shiny for Python web application framework (interactive data table part can be accessed [here](https://jhylin.github.io/Data_in_life_blog/posts/15_Molviz/itables.html))
 
 * [Small molecules in ChEMBL database - Series 1.1](https://jhylin.github.io/Data_in_life_blog/posts/08_ML1-1_Small_molecules_in_ChEMBL_database/ML1-1_chembl_cpds.html) - Polars dataframe library and machine learning in scikit-learn
   
