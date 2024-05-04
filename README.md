@@ -14,5 +14,4 @@ My brief background introduction can be accessed [here](https://jhylin.github.io
 
 
 Open-source contributions:
-[practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials/issues/12)
-[chembl_downloader](https://github.com/cthoyt/chembl-downloader/pull/13)
+[practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials/issues/12), [chembl_downloader](https://github.com/cthoyt/chembl-downloader/pull/13)
