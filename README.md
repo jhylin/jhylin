@@ -11,3 +11,8 @@ My brief background introduction can be accessed [here](https://jhylin.github.io
 * [Small molecules in ChEMBL database - series 1.2](https://jhylin.github.io/Data_in_life_blog/posts/10_ML1-2_Small_molecules_in_ChEMBL_database/ML1-2_chembl_cpds.html) - Cross-validation & hyper-parameter tuning with scikit-learn
 
 * [Small molecules in ChEMBL database - series 1.3](https://jhylin.github.io/Data_in_life_blog/posts/11_ML1-3_Small_molecules_in_ChEMBL_database/ML1-3_chembl_cpds.html) - Re-training & re-evaluation with scikit-learn
+
+
+Open-source contributions:
+[practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials/issues/12)
+[chembl_downloader](https://github.com/cthoyt/chembl-downloader/pull/13)
