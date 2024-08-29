@@ -1,4 +1,4 @@
-My brief background introduction can be accessed [here](https://jhylin.github.io/Data_in_life_blog/about.html) via my [blog](https://jhylin.github.io/Data_in_life_blog/), which showcases several different cheminformatics, machine learning and data science projects using various software toolkits. The latest project I've been working on is about cytochrome P450 and approved drugs (hopefully coming soon or latest by September 2024).
+My brief background introduction can be accessed [here](https://jhylin.github.io/Data_in_life_blog/about.html) via my [blog](https://jhylin.github.io/Data_in_life_blog/), which showcases several different cheminformatics, machine learning and data science projects using various software toolkits. The latest project I've worked on is about [cytochrome P450 and approved drugs](https://jhylin.github.io/Data_in_life_blog/posts/20_Cyp3a4_2d6_inh/1_CYP450_drugs.html).
 
 There are also several other projects I've worked on over the past year or so such as:
 
